@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+nowtime is 23:24
 nowtime is 23:18
 __version__ = '1.1.4'
 __author__ = 'Liao Xuefeng (askxuefeng@gmail.com)'
